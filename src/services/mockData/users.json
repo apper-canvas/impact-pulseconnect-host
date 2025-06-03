@@ -1,0 +1,122 @@
+[
+  {
+    "id": "user1",
+    "username": "alexchen",
+    "email": "alex.chen@email.com",
+    "profilePicture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "bio": "Tech enthusiast & coffee lover ☕ Sharing my journey through code and creativity",
+    "followers": ["user2", "user3", "user4", "user5"],
+    "following": ["user2", "user6", "user7"],
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "user2",
+    "username": "sarahwilliams",
+    "email": "sarah.williams@email.com",
+    "profilePicture": "https://images.unsplash.com/photo-1494790108755-2616b612b5e5?w=150&h=150&fit=crop&crop=face",
+    "bio": "Digital artist & UI/UX designer 🎨 Creating beautiful experiences one pixel at a time",
+    "followers": ["user1", "user3", "user8", "user9", "user10"],
+    "following": ["user1", "user4", "user5"],
+    "createdAt": "2024-01-12T14:20:00Z"
+  },
+  {
+    "id": "user3",
+    "username": "mikejohnson",
+    "email": "mike.johnson@email.com",
+    "profilePicture": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "bio": "Photographer capturing life's beautiful moments 📸 Adventure seeker & storyteller",
+    "followers": ["user1", "user2", "user4", "user6"],
+    "following": ["user2", "user7", "user8"],
+    "createdAt": "2024-01-10T09:15:00Z"
+  },
+  {
+    "id": "user4",
+    "username": "emilydavis",
+    "email": "emily.davis@email.com",
+    "profilePicture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+    "bio": "Fitness coach & wellness advocate 💪 Helping people live their healthiest lives",
+    "followers": ["user1", "user3", "user5", "user7", "user9"],
+    "following": ["user1", "user2", "user6"],
+    "createdAt": "2024-01-08T16:45:00Z"
+  },
+  {
+    "id": "user5",
+    "username": "davidbrown",
+    "email": "david.brown@email.com",
+    "profilePicture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+    "bio": "Food blogger & chef 👨‍🍳 Sharing recipes and culinary adventures from around the world",
+    "followers": ["user1", "user4", "user6", "user8"],
+    "following": ["user2", "user3", "user7"],
+    "createdAt": "2024-01-05T11:30:00Z"
+  },
+  {
+    "id": "user6",
+    "username": "jessicamiller",
+    "email": "jessica.miller@email.com",
+    "profilePicture": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=150&h=150&fit=crop&crop=face",
+    "bio": "Travel blogger ✈️ Exploring the world one destination at a time",
+    "followers": ["user3", "user5", "user7", "user10"],
+    "following": ["user1", "user4", "user8", "user9"],
+    "createdAt": "2024-01-03T13:20:00Z"
+  },
+  {
+    "id": "user7",
+    "username": "ryanwilson",
+    "email": "ryan.wilson@email.com",
+    "profilePicture": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?w=150&h=150&fit=crop&crop=face",
+    "bio": "Music producer & DJ 🎵 Creating beats that move souls and bodies",
+    "followers": ["user4", "user6", "user8", "user9"],
+    "following": ["user1", "user3", "user5", "user10"],
+    "createdAt": "2024-01-01T18:00:00Z"
+  },
+  {
+    "id": "user8",
+    "username": "oliviagarcia",
+    "email": "olivia.garcia@email.com",
+    "profilePicture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=face",
+    "bio": "Fashion stylist & lifestyle influencer 👗 Helping people express their unique style",
+    "followers": ["user2", "user5", "user7", "user9", "user10"],
+    "following": ["user3", "user6", "user1"],
+    "createdAt": "2023-12-28T12:10:00Z"
+  },
+  {
+    "id": "user9",
+    "username": "jamesanderson",
+    "email": "james.anderson@email.com",
+    "profilePicture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&h=150&fit=crop&crop=face",
+    "bio": "Entrepreneur & startup founder 🚀 Building the future one idea at a time",
+    "followers": ["user2", "user4", "user7", "user8"],
+    "following": ["user1", "user6", "user10"],
+    "createdAt": "2023-12-25T15:30:00Z"
+  },
+  {
+    "id": "user10",
+    "username": "sophialee",
+    "email": "sophia.lee@email.com",
+    "profilePicture": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=150&h=150&fit=crop&crop=face",
+    "bio": "Environmental scientist 🌱 Passionate about sustainability and protecting our planet",
+    "followers": ["user6", "user8", "user9"],
+    "following": ["user2", "user7", "user1", "user3"],
+    "createdAt": "2023-12-20T08:45:00Z"
+  },
+  {
+    "id": "user11",
+    "username": "danielclark",
+    "email": "daniel.clark@email.com",
+    "profilePicture": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=150&h=150&fit=crop&crop=face",
+    "bio": "Software engineer & open source contributor 💻 Building tools that make developers' lives easier",
+    "followers": ["user1", "user10"],
+    "following": ["user2", "user4", "user8"],
+    "createdAt": "2023-12-18T20:15:00Z"
+  },
+  {
+    "id": "user12",
+    "username": "rachelturner",
+    "email": "rachel.turner@email.com",
+    "profilePicture": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=150&h=150&fit=crop&crop=face",
+    "bio": "Book reviewer & literary enthusiast 📚 Sharing stories that change perspectives",
+    "followers": ["user3", "user9", "user11"],
+    "following": ["user5", "user10", "user1"],
+    "createdAt": "2023-12-15T14:50:00Z"
+  }
+]

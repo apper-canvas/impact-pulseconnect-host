@@ -1,0 +1,130 @@
+[
+  {
+    "id": "comment1",
+    "postId": "post1",
+    "userId": "user2",
+    "content": "This looks amazing! Can't wait to try it out in my next project. TypeScript + Tailwind is such a powerful combo! 🔥",
+    "likes": ["user1", "user3"],
+    "createdAt": "2024-01-20T14:45:00Z"
+  },
+  {
+    "id": "comment2",
+    "postId": "post1",
+    "userId": "user3",
+    "content": "Would love to see the documentation when you release it. Modern web dev tools are getting so much better!",
+    "likes": ["user1"],
+    "createdAt": "2024-01-20T15:20:00Z"
+  },
+  {
+    "id": "comment3",
+    "postId": "post2",
+    "userId": "user1",
+    "content": "The accessibility focus is fantastic! More designers need to prioritize inclusive design. Beautiful work! ♿",
+    "likes": ["user2", "user6"],
+    "createdAt": "2024-01-20T11:30:00Z"
+  },
+  {
+    "id": "comment4",
+    "postId": "post3",
+    "userId": "user1",
+    "content": "Breathtaking shot! The composition and lighting are perfect. Nature photography at its finest! 📸",
+    "likes": ["user3", "user6"],
+    "createdAt": "2024-01-19T19:10:00Z"
+  },
+  {
+    "id": "comment5",
+    "postId": "post3",
+    "userId": "user6",
+    "content": "This makes me want to plan a mountain trip immediately! Where was this taken?",
+    "likes": ["user3"],
+    "createdAt": "2024-01-19T19:30:00Z"
+  },
+  {
+    "id": "comment6",
+    "postId": "post4",
+    "userId": "user5",
+    "content": "So true! Consistency is everything. I start my day with a 20-minute walk - simple but effective! 🚶‍♀️",
+    "likes": ["user4"],
+    "createdAt": "2024-01-19T08:15:00Z"
+  },
+  {
+    "id": "comment7",
+    "postId": "post5",
+    "userId": "user3",
+    "content": "That looks absolutely delicious! Would you mind sharing the recipe? My family would love this! 🤤",
+    "likes": ["user5", "user10"],
+    "createdAt": "2024-01-18T19:45:00Z"
+  },
+  {
+    "id": "comment8",
+    "postId": "post5",
+    "userId": "user10",
+    "content": "Homemade pasta hits different! The love and time you put into it always shows in the taste.",
+    "likes": ["user5"],
+    "createdAt": "2024-01-18T20:10:00Z"
+  },
+  {
+    "id": "comment9",
+    "postId": "post6",
+    "userId": "user8",
+    "content": "Tokyo is magical! I visited last year and I'm still dreaming about going back. The food scene there is incredible! 🍜",
+    "likes": ["user6", "user9"],
+    "createdAt": "2024-01-18T13:25:00Z"
+  },
+  {
+    "id": "comment10",
+    "postId": "post7",
+    "userId": "user4",
+    "content": "Can't wait to hear it! Your last track has been on repeat for weeks. You never disappoint! 🎧",
+    "likes": ["user7", "user8"],
+    "createdAt": "2024-01-17T16:50:00Z"
+  },
+  {
+    "id": "comment11",
+    "postId": "post7",
+    "userId": "user8",
+    "content": "Already pre-saved on Spotify! Your music always gets me through my workouts. Keep creating! 💪",
+    "likes": ["user7"],
+    "createdAt": "2024-01-17T17:15:00Z"
+  },
+  {
+    "id": "comment12",
+    "postId": "post8",
+    "userId": "user2",
+    "content": "Love this sustainable approach to fashion! These pieces are gorgeous and it's great to see eco-conscious choices. 🌱",
+    "likes": ["user8", "user10"],
+    "createdAt": "2024-01-17T14:05:00Z"
+  },
+  {
+    "id": "comment13",
+    "postId": "post9",
+    "userId": "user1",
+    "content": "Huge congratulations! Well deserved success. Your team's dedication really shows. Excited to see what's next! 🎊",
+    "likes": ["user9", "user11"],
+    "createdAt": "2024-01-16T10:40:00Z"
+  },
+  {
+    "id": "comment14",
+    "postId": "post9",
+    "userId": "user7",
+    "content": "This is inspiring! The startup journey is tough but stories like yours keep me motivated. Congrats! 🚀",
+    "likes": ["user9"],
+    "createdAt": "2024-01-16T11:20:00Z"
+  },
+  {
+    "id": "comment15",
+    "postId": "post10",
+    "userId": "user6",
+    "content": "This is amazing work! Ocean conservation is so important. How can others get involved in future cleanup events? 🌊",
+    "likes": ["user10", "user12"],
+    "createdAt": "2024-01-16T16:30:00Z"
+  },
+  {
+    "id": "comment16",
+    "postId": "post12",
+    "userId": "user10",
+    "content": "Just added this to my reading list! Your book reviews always lead me to amazing discoveries. Thanks for the rec! 📚",
+    "likes": ["user12"],
+    "createdAt": "2024-01-14T21:10:00Z"
+  }
+]

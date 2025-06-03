@@ -1,0 +1,122 @@
+[
+  {
+    "id": "post1",
+    "userId": "user1",
+    "content": "Just finished building a new React component library! The developer experience is incredible with TypeScript and Tailwind CSS. Can't wait to share it with the community. Who else is excited about modern web development? 🚀",
+    "mediaUrls": ["https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&h=400&fit=crop"],
+    "likes": ["user2", "user3", "user4", "user5"],
+    "comments": ["comment1", "comment2"],
+    "shares": 12,
+    "createdAt": "2024-01-20T14:30:00Z"
+  },
+  {
+    "id": "post2",
+    "userId": "user2",
+    "content": "New UI design concepts for a mobile banking app 💳 Focusing on accessibility and user-friendly interfaces. The future of fintech is all about seamless experiences!",
+    "mediaUrls": ["https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600&h=400&fit=crop"],
+    "likes": ["user1", "user3", "user6", "user7", "user8"],
+    "comments": ["comment3"],
+    "shares": 8,
+    "createdAt": "2024-01-20T11:15:00Z"
+  },
+  {
+    "id": "post3",
+    "userId": "user3",
+    "content": "Golden hour at the mountains 🏔️ Sometimes you need to disconnect from the digital world and connect with nature. This weekend adventure reminded me why photography is my passion.",
+    "mediaUrls": ["https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop"],
+    "likes": ["user1", "user2", "user4", "user6", "user9"],
+    "comments": ["comment4", "comment5"],
+    "shares": 15,
+    "createdAt": "2024-01-19T18:45:00Z"
+  },
+  {
+    "id": "post4",
+    "userId": "user4",
+    "content": "Morning workout complete! 💪 Remember, consistency beats perfection every time. It's not about being perfect, it's about showing up for yourself daily. What's your favorite way to start the day?",
+    "mediaUrls": ["https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&h=400&fit=crop"],
+    "likes": ["user1", "user5", "user7", "user8"],
+    "comments": ["comment6"],
+    "shares": 6,
+    "createdAt": "2024-01-19T07:30:00Z"
+  },
+  {
+    "id": "post5",
+    "userId": "user5",
+    "content": "Homemade pasta night! 🍝 Nothing beats the satisfaction of making everything from scratch. This carbonara recipe has been in my family for generations. Food really is love made visible.",
+    "mediaUrls": ["https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?w=600&h=400&fit=crop"],
+    "likes": ["user2", "user3", "user6", "user10"],
+    "comments": ["comment7", "comment8"],
+    "shares": 9,
+    "createdAt": "2024-01-18T19:20:00Z"
+  },
+  {
+    "id": "post6",
+    "userId": "user6",
+    "content": "Lost in the streets of Tokyo 🗾 Every corner tells a story, every alley holds a secret. This city perfectly blends tradition with innovation. Already planning my next adventure!",
+    "mediaUrls": ["https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=600&h=400&fit=crop"],
+    "likes": ["user3", "user4", "user7", "user8", "user9"],
+    "comments": ["comment9"],
+    "shares": 11,
+    "createdAt": "2024-01-18T12:10:00Z"
+  },
+  {
+    "id": "post7",
+    "userId": "user7",
+    "content": "New track dropping this Friday! 🎵 Been working on this for months and I'm so excited to share it with you all. Music has the power to connect souls across any distance.",
+    "mediaUrls": ["https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop"],
+    "likes": ["user1", "user4", "user6", "user8", "user10"],
+    "comments": ["comment10", "comment11"],
+    "shares": 14,
+    "createdAt": "2024-01-17T16:25:00Z"
+  },
+  {
+    "id": "post8",
+    "userId": "user8",
+    "content": "Spring fashion trends are here! 🌸 Loving these sustainable pieces that prove eco-friendly can be absolutely stunning. Fashion should make you feel good inside and out.",
+    "mediaUrls": ["https://images.unsplash.com/photo-1445205170230-053b83016050?w=600&h=400&fit=crop"],
+    "likes": ["user2", "user5", "user9", "user10"],
+    "comments": ["comment12"],
+    "shares": 7,
+    "createdAt": "2024-01-17T13:40:00Z"
+  },
+  {
+    "id": "post9",
+    "userId": "user9",
+    "content": "Startup life update: We just closed our Series A! 🎉 Huge thanks to our amazing team and investors who believed in our vision. The journey is just beginning. #entrepreneurship",
+    "mediaUrls": [],
+    "likes": ["user1", "user2", "user7", "user8", "user11"],
+    "comments": ["comment13", "comment14"],
+    "shares": 18,
+    "createdAt": "2024-01-16T10:15:00Z"
+  },
+  {
+    "id": "post10",
+    "userId": "user10",
+    "content": "Ocean cleanup day was a huge success! 🌊 Removed over 200 pounds of plastic waste with our volunteer team. Small actions lead to big changes. Every piece of trash removed matters.",
+    "mediaUrls": ["https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&h=400&fit=crop"],
+    "likes": ["user6", "user8", "user9", "user12"],
+    "comments": ["comment15"],
+    "shares": 13,
+    "createdAt": "2024-01-16T15:55:00Z"
+  },
+  {
+    "id": "post11",
+    "userId": "user11",
+    "content": "Open source contribution streak continues! 🔥 Just merged a performance optimization that reduces load time by 40%. Love seeing how collaborative coding can make software better for everyone.",
+    "mediaUrls": ["https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&fit=crop"],
+    "likes": ["user1", "user9"],
+    "comments": [],
+    "shares": 5,
+    "createdAt": "2024-01-15T09:30:00Z"
+  },
+  {
+    "id": "post12",
+    "userId": "user12",
+    "content": "Book recommendation: 'The Seven Husbands of Evelyn Hugo' 📖 This novel completely captivated me! A masterclass in storytelling with complex characters and unexpected twists. What's on your reading list?",
+    "mediaUrls": ["https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&h=400&fit=crop"],
+    "likes": ["user3", "user10", "user11"],
+    "comments": ["comment16"],
+    "shares": 4,
+    "createdAt": "2024-01-14T20:45:00Z"
+  }
+]
